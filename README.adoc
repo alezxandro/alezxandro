@@ -1,0 +1,23 @@
+= Hello, I'm Alessandro Gheojan!
+
+
+ 👋 I'm a computer engineering student and software developer 
+
+
+== About Me
+
+* 😄 Name: Alessandro Gheojan
+* 🎓 Currently studying at ELIS - Politecnico di Milano
+* 📫 Contact Me: gheojan.alessandro@outlook.com
+
+== Experience
+
+I have gained valuable experience during my 6-month apprenticeship at Matematici, where I worked on Web Applications. +
+This experience has further honed my skills in HTML, CSS, JavaScript, jQuery, ASP.NET MVC.
+
+== What I Do
+
+I'm currently studying Computer Engineering at Politecnico di Milano. +
+I'm pursuing this degree course at ELIS, where I am doing additional courses to improve my skills like Java, SQL, Python etc.
+
+
